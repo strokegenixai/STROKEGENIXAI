@@ -52,7 +52,7 @@ This will simulate the process of detecting stroke risks based on a random selec
 ---
 
 ## **How It Works**
-
+https://github.com/strokegenixai/STROKEGENIXAI/blob/main/flowchart%20STROKEGENIXAI.jpg
 ### **Data Collection**:
 The AI model simulates the collection of key health indicators, such as:
 - **Age**: Age plays a significant role in stroke risk.
