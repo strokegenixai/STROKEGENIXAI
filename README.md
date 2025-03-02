@@ -1,4 +1,5 @@
-![STROKEGENIXAI Logo](https://kaleidoscopic-froyo-6981b3.netlify.app/images/logo.png)
+
+![STROKEGENIXAI Logo](https://raw.githubusercontent.com/strokegenixai/STROKEGENIXAI/main/STROKEGENIX%20LOGO.jpeg)
 
 
 **STROKEGENIXAI** is an AI-powered platform designed to predict and prevent strokes by utilizing cutting-edge artificial intelligence (AI) and blockchain technology. Our system leverages AI models to analyze health data in real-time, detecting early signs of stroke risks and sending alerts for immediate medical intervention. This repository contains a simulated AI model that demonstrates the potential of our platform.
