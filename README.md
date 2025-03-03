@@ -134,19 +134,19 @@ if __name__ == "__main__":
     model = StrokeDetectionModel()
     model.run_model() 
 ```
-Expected Output:
+### **Expected Output:***
 Low Risk: "Low risk detected. Risk Score: 45"
 Moderate Risk: "Moderate risk detected. Risk Score: 65"
 High Risk: "Warning: High stroke risk detected! Risk Score: 95"
 
-Future Work
+### **Future Work**
 While the current repository includes a simulated AI model, we plan to implement the following in future versions:
 
 Integration with Real Medical Data: Using actual patient data to train the AI model.
 Model Improvement: Implementing more sophisticated machine learning models for better accuracy.
 Web/Platform Integration: Building a full platform for healthcare providers to interact with the AI model and manage patient data.
 
-Contributing
+### **Contributing**
 We welcome contributions from the open-source community! If you'd like to contribute, please follow these steps:
 
 Fork the repository.
@@ -156,14 +156,14 @@ For detailed guidelines on contributing, please refer to our CONTRIBUTING.md fil
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Badges
+### **Badges**
 Showcase our project’s status with these badges:
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Issues](https://img.shields.io/github/issues/strokegenixai/STROKEGENIXAI)
 ![Pull Requests](https://img.shields.io/github/issues-pr/strokegenixai/STROKEGENIXAI)
 ![Contributors](https://img.shields.io/github/contributors/strokegenixai/STROKEGENIXAI)
 
-Project Roadmap
+### **Project Roadmap**
 Here’s a timeline of our planned milestones to give you a sense of where StrokeGenixAI is headed:
 Q1 2024: Launched the StrokeGenixAI repository with a simulated AI model for stroke detection.
 
@@ -175,7 +175,7 @@ Q3 2025: Launch a full web platform for global access, including patient-facing 
 
 Q1 2026: Expand to underserved regions, ensuring global scalability and accessibility.
 
-Our Team
+### **Our Team**
 
 Meet the core team behind StrokeGenixAI:
 Dr. William Smith, Chief Medical Officer
@@ -188,11 +188,11 @@ Sarah Lee, Data Scientist
 Specializes in machine learning for medical applications, driving our AI model development.
 
 
-Community Resources
+### **Community Resources**
 We’re building a vibrant community around StrokeGenixAI. Join us to collaborate, ask questions, or share ideas:
 Twitter: Stay updated with our progress on Twitter @StrokeGenixAI.
 
-Stats & Impact
+### **Stats & Impact**
 StrokeGenixAI aims to make a global impact. Here are some key statistics driving our mission:
 Global Stroke Burden: Over 15 million strokes occur annually worldwide, leading to 5.5 million deaths (Source: World Stroke Organization).
 
@@ -200,10 +200,11 @@ Early Detection Impact: Early intervention can reduce stroke mortality by up to 
 
 Our Goal: Reduce stroke-related deaths by 20% by 2030 through early detection and intervention.
 
-Website
+### **Website**
 Visit our official website for more information, including a live demo (coming soon) and detailed documentation:
 https://strokegenixai.xyz/
-Acknowledgements
+
+### **Acknowledgements**
 We’d like to thank the following for their contributions and support:
 Solana Foundation for providing resources on blockchain integration.
 
