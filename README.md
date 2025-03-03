@@ -132,8 +132,8 @@ class StrokeDetectionModel:
 # Simulate the AI model
 if __name__ == "__main__":
     model = StrokeDetectionModel()
-    model.run_model()
-
+    model.run_model() 
+```
 Expected Output:
 Low Risk: "Low risk detected. Risk Score: 45"
 Moderate Risk: "Moderate risk detected. Risk Score: 65"
@@ -155,6 +155,65 @@ Submit a pull request with a clear explanation of your changes.
 For detailed guidelines on contributing, please refer to our CONTRIBUTING.md file.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+Badges
+Showcase our project’s status with these badges:
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Issues](https://img.shields.io/github/issues/strokegenixai/STROKEGENIXAI)
+![Pull Requests](https://img.shields.io/github/issues-pr/strokegenixai/STROKEGENIXAI)
+![Contributors](https://img.shields.io/github/contributors/strokegenixai/STROKEGENIXAI)
+
+Project Roadmap
+Here’s a timeline of our planned milestones to give you a sense of where StrokeGenixAI is headed:
+Q1 2024: Launched the StrokeGenixAI repository with a simulated AI model for stroke detection.
+
+Q3 2024: Integrated Solana blockchain for secure data storage (in progress).
+
+Q1 2025: Release a beta version for healthcare providers to test with real patient data.
+
+Q3 2025: Launch a full web platform for global access, including patient-facing features.
+
+Q1 2026: Expand to underserved regions, ensuring global scalability and accessibility.
+
+Our Team
+
+Meet the core team behind StrokeGenixAI:
+Dr. William Smith, Chief Medical Officer
+A neurologist with over 15 years of experience in stroke prevention and treatment.
+
+Peter Jackson , Lead Developer
+A blockchain and AI expert with a passion for healthcare innovation.
+
+Sarah Lee, Data Scientist
+Specializes in machine learning for medical applications, driving our AI model development.
+
+
+Community Resources
+We’re building a vibrant community around StrokeGenixAI. Join us to collaborate, ask questions, or share ideas:
+Twitter: Stay updated with our progress on Twitter @StrokeGenixAI.
+
+Stats & Impact
+StrokeGenixAI aims to make a global impact. Here are some key statistics driving our mission:
+Global Stroke Burden: Over 15 million strokes occur annually worldwide, leading to 5.5 million deaths (Source: World Stroke Organization).
+
+Early Detection Impact: Early intervention can reduce stroke mortality by up to 30% (Source: American Heart Association).
+
+Our Goal: Reduce stroke-related deaths by 20% by 2030 through early detection and intervention.
+
+Website
+Visit our official website for more information, including a live demo (coming soon) and detailed documentation:
+https://strokegenixai.xyz/
+Acknowledgements
+We’d like to thank the following for their contributions and support:
+Solana Foundation for providing resources on blockchain integration.
+
+Open-Source Community for feedback and contributions.
+
+Healthcare Partners for guiding our mission with real-world insights.
+
+Thank you for your interest in StrokeGenixAI! Let’s work together to save lives through early stroke detection.
+
+
 
 
 
