@@ -134,7 +134,7 @@ if __name__ == "__main__":
     model = StrokeDetectionModel()
     model.run_model() 
 ```
-### **Expected Output:***
+### **Expected Output:**
 Low Risk: "Low risk detected. Risk Score: 45"
 Moderate Risk: "Moderate risk detected. Risk Score: 65"
 High Risk: "Warning: High stroke risk detected! Risk Score: 95"
